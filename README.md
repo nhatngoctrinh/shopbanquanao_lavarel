@@ -1,3 +1,2 @@
-day la nhat
-day la ngoc
+hello 
 nhat thu pull va push 
