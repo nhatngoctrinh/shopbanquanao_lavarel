@@ -1,5 +1,3 @@
-hello 
-hleooaad
-hello
-nhat thu pull va push 
-heeelll llll sadfjodsij
+
+nhat thu pull va push
+duoc chua
