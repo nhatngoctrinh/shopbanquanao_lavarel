@@ -1,2 +1,3 @@
-hello 
-nhat thu pull va push 
+
+nhat thu pull va push
+duoc chua
